@@ -1,0 +1,39 @@
+{
+  "name": "pixiv-auth-got",
+  "version": "0.0.0",
+  "description": "pixiv auth got",
+  "license": "MIT",
+  "repository": "akameco/pixiv-auth-got",
+  "author": {
+    "name": "akameco",
+    "email": "akameco.t@gmail.com",
+    "url": "akameco.github.io"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "pixiv",
+    "got"
+  ],
+  "dependencies": {
+    "got": "^6.3.0"
+  },
+  "devDependencies": {
+    "ava": "^0.16.0",
+    "is-plain-obj": "^1.1.0",
+    "xo": "^0.16.0"
+  },
+  "xo": {
+    "esnext": true,
+    "rules": {
+      "camelcase": "off"
+    }
+  }
+}
