@@ -38,6 +38,7 @@ class PixivAuthGot {
 				'App-Version': '6.0.9',
 				'User-Agent': 'PixivIOSApp/6.0.9 (iOS 9.3.3; iPhone8,1)'
 			};
+			return res;
 		});
 	}
 
