@@ -1,5 +1,7 @@
 # pixiv-auth-got [![Build Status](https://travis-ci.org/akameco/pixiv-auth-got.svg?branch=master)](https://travis-ci.org/akameco/pixiv-auth-got)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/akameco/pixiv-auth-got.svg)](https://greenkeeper.io/)
+
 > pixiv auth got
 
 
